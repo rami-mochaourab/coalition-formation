@@ -27,6 +27,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # Reference
 
 When using the code, cite the associated paper with the following bibtex entry
+
     @Article{Mochaourab2017,
     Title                    = {Distributed Clustering for Multiuser Networks through Coalition Formation},
     Author                   = {Rami Mochaourab and Eduard Jorswieck and Mats Bengtsson},
