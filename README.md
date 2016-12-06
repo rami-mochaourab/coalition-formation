@@ -1,5 +1,5 @@
 
-# About
+# coalition-formation
 The Matlab code reproduces Fig. 3 in the following paper
 
 > R. Mochaourab, E. Jorswieck, M. Bengtsson, "Distributed Clustering for Multiuser Networks through Coalition Formation," submitted to IEEE Signal Processing Magazine, Lecture Notes, 2016.
