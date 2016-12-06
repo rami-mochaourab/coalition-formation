@@ -1,6 +1,5 @@
 
-coalition-formation
-===================
+# coalition-formation
 
 The Matlab code reproduces Fig. 3 in the following paper
 
