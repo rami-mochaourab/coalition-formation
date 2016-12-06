@@ -24,14 +24,3 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 [GNU General Public License](gpl.md) for more details.
-
-## Reference
-
-When using the code, please cite the associated paper with the following bibtex entry:
-
-    @Article{Mochaourab2017,
-    Title                    = {Distributed Clustering for Multiuser Networks through Coalition Formation},
-    Author                   = {Rami Mochaourab and Eduard Jorswieck and Mats Bengtsson},
-    Journal                  = {IEEE Signal Processing Magazine},
-    Note                     = {submitted}
-    }
