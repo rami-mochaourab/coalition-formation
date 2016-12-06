@@ -4,9 +4,10 @@ The Matlab code reproduces Fig. 3 in the following paper
 
 > R. Mochaourab, E. Jorswieck, M. Bengtsson, "Distributed Clustering for Multiuser Networks through Coalition Formation," submitted to IEEE Signal Processing Magazine, Lecture Notes, 2016.
 
-Run the main file main.m.  
+The code has been implemented with Matlab R2016b.
 
-    The code has been implemented with Matlab R2016b. 
+## Usage
+Run the main file main.m. 
 
 The code uses two functions SetPartition.m and Stirling2nd.m by the author Bruno Luong. These functions are included here and can also be downloaded from http://se.mathworks.com/matlabcentral/fileexchange/24133-set-partition
 
@@ -24,13 +25,13 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 [GNU General Public License](gpl.md) for more details.
 
-# Reference
+## Reference
 
-When using the code, cite the associated paper with the following bibtex entry
+When using the code, please cite the associated paper with the following bibtex entry:
 
     @Article{Mochaourab2017,
     Title                    = {Distributed Clustering for Multiuser Networks through Coalition Formation},
     Author                   = {Rami Mochaourab and Eduard Jorswieck and Mats Bengtsson},
-    Journal                  = IEEE Signal Processing Magazine,
+    Journal                  = {IEEE Signal Processing Magazine},
     Note                     = {submitted}
-}
+    }
