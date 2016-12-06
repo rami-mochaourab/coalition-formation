@@ -1,6 +1,14 @@
 
+# About
+The Matlab code reproduces Fig. 3 in the following paper
 
-<one line to give the program's name and a brief idea of what it does.>
+R. Mochaourab, E. Jorswieck, M. Bengtsson, "Distributed Clustering for Multiuser Networks through Coalition Formation," submitted to IEEE Signal Processing Magazine, Lecture Notes, 2016.
+
+The code has been implemented and tested with Matlab R2016b. The main which should be run is "main.m".
+
+The code uses the functions SetPartition.m and Stirling2nd.m by the author Bruno Luong. These functions are included here and can also be downloaded from http://se.mathworks.com/matlabcentral/fileexchange/24133-set-partition
+
+# License
 
     Copyright (C) 2016 Rami Mochaourab
 
@@ -12,7 +20,5 @@
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+    [GNU General Public License](gpl.md) for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
